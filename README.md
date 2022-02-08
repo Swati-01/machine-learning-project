@@ -18,7 +18,7 @@ Why use this metric instead of accuracy ? : because having a good accuracy doesn
 
 
 ## Results
-Retained model : Logistic Regression
-Final ROC AUC Score: 0.8244643585459234 
-Recall Score: 0.3479 
-Precision Score: 0.7364 
+Retained model : Logistic Regression<br>
+Final ROC AUC Score: 0.8244643585459234<br>
+Recall Score: 0.3479<br>
+Precision Score: 0.7364<br>
